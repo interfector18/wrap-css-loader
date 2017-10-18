@@ -3,6 +3,9 @@
 
 Uses [loader-utils](https://github.com/webpack/loader-utils).getOptions() to get the options, hence avoids any depreciation warnings related to parseQuery()
 
+## Install
+npm install wrap-css-loader --save-dev
+
 ## Usage
 
 ##### Basic Usage
