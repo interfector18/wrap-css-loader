@@ -1,0 +1,25 @@
+{
+  "name": "wrap-css-loader",
+  "version": "1.0.0",
+  "description": "CSS Wrap loader for webpack to wrap css classes with a namespace ",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SreeChaitanya/wrap-css-loader.git"
+  },
+  "keywords": [
+    "css-wrap-loader",
+    "wrap-css-loader",
+    "loader",
+    "css-wrap",
+    "wrap-css",
+    "css",
+    "css-namespace"
+  ],
+  "author": "Sree Chaitanya Y <sreechaitanya.y@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SreeChaitanya/wrap-css-loader/issues"
+  },
+  "homepage": "https://github.com/SreeChaitanya/wrap-css-loader#readme"
+}
