@@ -1,7 +1,7 @@
 # wrap-css-loader
-[CSS Wrap](https://github.com/benignware/css-wrap) Loader for webpack
+[CSS Wrap](https://github.com/benignware/css-wrap) Loader for webpack.
 
-Uses [loader-utils](https://github.com/webpack/loader-utils).getOptions() to get the options, hence avoids any depreciation warnings related to parseQuery()
+Uses [loader-utils](https://github.com/webpack/loader-utils).getOptions() to get the options, hence avoids any depreciation warnings related to parseQuery().
 
 ## Install
 npm install wrap-css-loader --save-dev
@@ -25,7 +25,7 @@ module.exports = {
 }
 ```
 
-#### Example with a typical webpack config using babel-loader, sass-loader and extract text plugin
+#### Example with a typical webpack config using babel-loader, sass-loader and extract text plugin.
 
 ```javascript
 module.exports = {
