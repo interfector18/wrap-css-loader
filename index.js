@@ -1,5 +1,5 @@
 var utils = require('loader-utils');
-var cssWrap = require('css-wrap')
+var cssWrap = require('@interfector18/css-wrap')
 
 module.exports = function (source) {
   this.cacheable();
