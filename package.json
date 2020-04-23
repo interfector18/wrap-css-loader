@@ -1,6 +1,6 @@
 {
   "name": "@interfector18/wrap-css-loader",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "CSS Wrap loader for webpack to wrap css classes with a namespace ",
   "main": "index.js",
   "repository": {
